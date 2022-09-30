@@ -1,0 +1,27 @@
+<?php
+$MESS['CATEGORY_DEFAULT_VALUE_1'] = 'Масла, автохимия, фильтры.';
+$MESS['CATEGORY_DEFAULT_VALUE_2'] = 'Шины, диски';
+$MESS['VIEW_DEFAULT_VALUE_1'] = 'Запрос цены и сроков поставки';
+$MESS['VIEW_DEFAULT_VALUE_2'] = 'Пополнение складов';
+$MESS['VIEW_DEFAULT_VALUE_3'] = 'Спецзаказ';
+$MESS['STOCK_DEFAULT_VALUE_1'] = 'Склад 1';
+$MESS['STOCK_DEFAULT_VALUE_2'] = 'Склад 2';
+$MESS['STOCK_DEFAULT_VALUE_3'] = 'Склад 3';
+$MESS['BRAND_DEFAULT_VALUE_1'] = 'Mobil';
+$MESS['BRAND_DEFAULT_VALUE_2'] = 'Лукойл';
+$MESS['BRAND_DEFAULT_VALUE_3'] = 'Sintec';
+$MESS['MAKE_DEFAULT_VALUE_BRAND'] = 'Бренд';
+$MESS['MAKE_DEFAULT_VALUE_NAME'] = 'Наименование';
+$MESS['MAKE_DEFAULT_VALUE_COUNT'] = 'Количество';
+$MESS['MAKE_DEFAULT_VALUE_PACK'] = 'Фасовка';
+$MESS['MAKE_DEFAULT_VALUE_CLIENT'] = 'Клиент';
+$MESS['REQUIRED_FIELD'] = 'поле обязательно для заполнения';
+$MESS["FIELD_TITLE"] = "Заголовок заявки";
+$MESS["FIELD_CATEGORY"] = "Категория";
+$MESS["FIELD_VIEW"] = "Вид заявки";
+$MESS["FIELD_STOCK"] = "Склад поставки";
+$MESS["FIELD_MAKE"] = "Состав заявки";
+$MESS["FIELD_BRAND"] = "Бренд";
+$MESS["FILE_FORM"] = "Прикрепить файл";
+$MESS["FIELD_COMMENT"] = "Комметарий";
+$MESS["ADD_FILE"] = "Во вложении прикреплён файл из формы";

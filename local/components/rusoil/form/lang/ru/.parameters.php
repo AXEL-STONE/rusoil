@@ -1,0 +1,22 @@
+<?php
+$MESS['EMAIL_TO'] = 'E-mail получателя';
+$MESS['CATEGORY_FIELD'] = 'Варианты поля "Категория"';
+$MESS['CATEGORY_DEFAULT_VALUE_1'] = 'Масла, автохимия, фильтры.';
+$MESS['CATEGORY_DEFAULT_VALUE_2'] = 'Шины, диски';
+$MESS['VIEW_FIELD'] = 'Варианты поля "Вид заявки"';
+$MESS['VIEW_DEFAULT_VALUE_1'] = 'Запрос цены и сроков поставки';
+$MESS['VIEW_DEFAULT_VALUE_2'] = 'Пополнение складов';
+$MESS['VIEW_DEFAULT_VALUE_3'] = 'Спецзаказ';
+$MESS['STOCK_FIELD'] = 'Варианты поля "Склад поставки"';
+$MESS['STOCK_DEFAULT_VALUE_1'] = 'Склад 1';
+$MESS['STOCK_DEFAULT_VALUE_2'] = 'Склад 2';
+$MESS['STOCK_DEFAULT_VALUE_3'] = 'Склад 3';
+$MESS['BRAND_FIELD'] = 'Варианты поля "Бренд"';
+$MESS['BRAND_DEFAULT_VALUE_1'] = 'Mobil';
+$MESS['BRAND_DEFAULT_VALUE_2'] = 'Лукойл';
+$MESS['BRAND_DEFAULT_VALUE_3'] = 'Sintec';
+$MESS['MAKE_FIELD'] = 'Набор дополнительных полей для поля "Состав заявки"';
+$MESS['MAKE_DEFAULT_VALUE_NAME'] = 'Наименование';
+$MESS['MAKE_DEFAULT_VALUE_COUNT'] = 'Количество';
+$MESS['MAKE_DEFAULT_VALUE_PACK'] = 'Фасовка';
+$MESS['MAKE_DEFAULT_VALUE_CLIENT'] = 'Клиент';
