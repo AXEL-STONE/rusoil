@@ -10,11 +10,6 @@ $APPLICATION->IncludeComponent(
 	array(
 		"COMPONENT_TEMPLATE" => ".default",
 		"EMAIL_TO" => "re-or@ya.ru",
-		"AJAX_MODE" => "Y",
-		"AJAX_OPTION_JUMP" => "N",
-		"AJAX_OPTION_STYLE" => "Y",
-		"AJAX_OPTION_HISTORY" => "N",
-		"AJAX_OPTION_ADDITIONAL" => "",
 		"CATEGORY_FIELD" => array(
 			0 => "Масла, автохимия, фильтры.",
 			1 => "Шины, диски",
